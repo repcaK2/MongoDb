@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      username: kacper
+      password: kacper
+      host: localhost
+      port: 27017
+      database: kacper
+      authentication-database: admin
+      auto-index-creation: true
